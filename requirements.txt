@@ -3,3 +3,7 @@ torch
 numpy
 pillow
 opencv-python-headless
+io
+os
+matplotlib.pyplot 
+PIL 
